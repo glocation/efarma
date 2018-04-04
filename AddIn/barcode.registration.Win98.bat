@@ -1,0 +1,1 @@
+%windir%\system32\regsvr32 barcode.ocx
